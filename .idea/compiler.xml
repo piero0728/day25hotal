@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day18layui" />
+        <module name="day22hotal1" />
+        <module name="day24hotal" />
+        <module name="day19layuiwanzheng" />
+        <module name="day15ssmzhenghe" />
+        <module name="day25hotal" />
+        <module name="day22hotal" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
